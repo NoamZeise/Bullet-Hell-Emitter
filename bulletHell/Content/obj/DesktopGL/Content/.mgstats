@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/noam4/source/repos/bulletHell/bulletHell/Content/bullet.png","C:/Users/noam4/source/repos/bulletHell/bulletHell/Content/bin/DesktopGL/Content/bullet.xnb","TextureProcessor","Texture2DContent",2368,10085,0.1545861
+"C:/Users/noam4/source/repos/bulletHell/bulletHell/Content/emitter.png","C:/Users/noam4/source/repos/bulletHell/bulletHell/Content/bin/DesktopGL/Content/emitter.xnb","TextureProcessor","Texture2DContent",7348,40085,0.0179515
